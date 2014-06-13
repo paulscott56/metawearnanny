@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MetaWearNanny</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_metawear_devices">Find MetaWear Devices</string>
+    <string name="scan_for_devices">Scan for MetaWear Devices</string>
+    <string name="label_mac_address">MAC Address</string>
+    <string name="label_accelerometer">Accelerometer</string>
+    <string name="label_led_state">LED State</string>
+    <string name="label_led_color">LED Color</string>
+    <string name="label_orientation">Orientation</string>
+    <string name="label_switch">Switch</string>
+    <string name="label_serial_number">Serial Number</string>
+    <string name="label_manufacturer">Manufacturer</string>
+    <string name="label_firmware_version">Firmware Version</string>
+    <string name="label_hardware_version">Hardware Version</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_accelerometer_data">Accelerometer Data</string>
+    <string name="label_freefall_status">In Free Fall</string>
+    <string name="label_led_red">LED Red Value</string>
+    <string name="label_led_green">LED Green Value</string>
+    <string name="label_led_blue">LED Blue Value</string>
+    <string name="label_commands">Commands</string>
+
+</resources>
